@@ -1,4 +1,4 @@
-#ElasticSearch（一）安装
+# ElasticSearch (一) 安装
 
 **1、下载安装包:**
 
