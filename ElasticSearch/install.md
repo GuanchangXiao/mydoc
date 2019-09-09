@@ -10,7 +10,7 @@ curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.
 
 macOS: [elasticsearch-7.3.1-darwin-x86_64.tar.gz](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.3.1-darwin-x86_64.tar.gz)
 
-```shel
+```shell
 curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.3.1-darwin-x86_64.tar.gz
 ```
 
